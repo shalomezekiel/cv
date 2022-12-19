@@ -1,0 +1,1 @@
+alert("Welcome to Shalom Ezekiel web profile.");
